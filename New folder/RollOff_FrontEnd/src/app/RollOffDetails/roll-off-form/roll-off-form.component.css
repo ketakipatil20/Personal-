@@ -1,0 +1,18 @@
+
+
+.bot-row{
+    padding: 1em 30em;
+}
+
+.container{
+
+
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px
+    rgba(0,25,42,0.314);
+}
+
+.sp{
+    font-weight: bold;
+    padding-left: 3em;
+}
